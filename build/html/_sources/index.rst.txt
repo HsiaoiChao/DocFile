@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to DocFile's documentation!
+Documentations!
 ===================================
 
 .. toctree::
@@ -12,7 +12,7 @@ Welcome to DocFile's documentation!
 
 
 
-Indices and tables
+C++
 ==================
 
 * :ref:`genindex`
